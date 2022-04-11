@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = j.ibald@protonmail.ch
+	name = Johannes Ibald
